@@ -1,3 +1,10 @@
+'''
+This program is to solve the LeetCode problem "1. Two Sums".
+Author: Aman Kauroo
+Date: 01/07/2026
+'''
+
+
 class Solution:
     def twoSum(self, nums, target):
         for i in range(len(nums)):
